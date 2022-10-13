@@ -4,7 +4,8 @@
   "license": "proprietary",
   "require": {
     "dealerdirect/phpcodesniffer-composer-installer": "*",
-    "php": ">=5.6.0",
+//    "php": ">=5.6.0,<8.0.0-dev",
+	"php": ">=5.6.0",
     "squizlabs/php_codesniffer": "^3.0",
     "phpcompatibility/php-compatibility": "*",
     "wp-coding-standards/wpcs": "*"
