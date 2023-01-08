@@ -14,3 +14,4 @@
 D://local-sites//localwp//app//public//wp-content//plugins//divi-essential
 D://xampp//htdocs//wakanda//wp-content//plugins//divi-essential
 D://xampp//htdocs//wakanda//wp-content//plugins//woo-essential
+D:\xampp\htdocs\wakanda\wp-content\plugins\woo-essential
