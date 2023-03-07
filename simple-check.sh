@@ -1,5 +1,6 @@
 #!/bin/bash          
-read -p 'Enter your module folder path(avoid last Oblique): ' path
+# read -p 'Enter your module folder path(avoid last Oblique): ' path
+path="../"
 woo_template="$path/templates/woocommerce"
 
 # echo "" > "$path/phpcs-log.txt";
