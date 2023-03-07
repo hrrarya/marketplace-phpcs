@@ -1,4 +1,3 @@
-#!/bin/bash          
 path="../"
 woo_template="$path/templates/woocommerce"
 
